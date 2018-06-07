@@ -1,0 +1,23 @@
+{
+  "name": "hue-ess-edit-plugin",
+  "version": "0.0.1-sp1807",
+  "description": "This is an ESS edit plugin",
+  "cordova": {
+    "id": "cordova-plugin-ess-edit",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pheecian/spreadsheetPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "pheecian",
+  "license": "MIT"
+}
