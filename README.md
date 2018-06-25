@@ -1,8 +1,8 @@
-# Cordova ESS edit plugin
+# Cordova plugin for editable spreadsheet
 
 ## 1. Description
 
-This is the plugin developed for General Application app to edit the ess file.
+This is the plugin to edit the spredsheet file.
 Currently, the plugin can only support edit on formula bar. We will continue improving it.
 
 ## 2. iOS Arch
